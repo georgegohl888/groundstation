@@ -1,0 +1,43 @@
+﻿<Window x:Class="GroundStation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gmaps="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+        xmlns:local="clr-namespace:GroundStation"
+        mc:Ignorable="d"
+        Title="BEANS Ground Station" Height="688.5" Width="1050.5">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="410"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="360"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <local:UserControl1 x:Name="PFD" ClipToBounds="True" Grid.Row="1" Loaded="PFD_Loaded" Margin="0,0,0,0"/>
+        <Button Name="ConnectDisconnect" Content="Connect" HorizontalAlignment="Right" Margin="0,0,0,26" Width="126" Click="ConnectDisconnect_Click" Grid.Column="1"/>
+        <ComboBox Name="PortsList" HorizontalAlignment="Right" Width="126" Grid.Column="1" Height="26" VerticalAlignment="Bottom" />
+        <CheckBox Content="LogData" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Checked="CheckBox_Checked" Height="15" Width="64"/>
+        <ScrollViewer Grid.Row="2">
+            <TextBlock x:Name="DebugLog"/>
+        </ScrollViewer>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Current status" VerticalAlignment="Top" Grid.Column="1" Margin="46,0,0,0" Height="34" Width="151" FontSize="22" FontWeight="Bold"/>
+        <TextBlock x:Name="StatusBox" Grid.Column="1" HorizontalAlignment="Left" Margin="52,23,0,0" TextWrapping="Wrap" Text="{Binding FlightStatus}" VerticalAlignment="Top" RenderTransformOrigin="-0.025,2.062" Height="27" Width="145" Foreground="Red" FontSize="20" />
+        <gmaps:GMapControl x:Name="mapView" Loaded="mapView_Loaded" Grid.Row="1" Grid.Column="1" />
+
+        <Image HorizontalAlignment="Left" Height="36" Margin="10,10,0,0" VerticalAlignment="Top" Width="34" Source="Images/Satellite icon.png"/>
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="49,10,0,0" TextWrapping="Wrap" Text="6 SAT" VerticalAlignment="Top" Width="39" Background="{x:Null}" BorderBrush="{x:Null}" />
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="49,27,0,0" TextWrapping="Wrap" Text="GPS LOCK" VerticalAlignment="Top" Width="63" Background="{x:Null}" BorderBrush="{x:Null}" />
+        <Image HorizontalAlignment="Left" Height="46" Margin="117,-1,0,0" VerticalAlignment="Top" Width="51" Source="Images/Battery icon 1.png"/>
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="168,10,0,0" TextWrapping="Wrap" Text="{Binding BattVolt, StringFormat={}{0} V}" VerticalAlignment="Top" Width="53" Background="{x:Null}" BorderBrush="{x:Null}" />
+        <TextBox HorizontalAlignment="Left" Height="19" Margin="168,26,0,0" TextWrapping="Wrap" Text="--.-- A" VerticalAlignment="Top" Width="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <CheckBox x:Name="FD_Enable_CheckBox" IsChecked="true" Grid.Column="1" Margin="92,10,0,0" Grid.Row="2" Content="Toggle Flight Director" Checked="FD_Enable_CheckBox_Checked" Unchecked="FD_Enable_CheckBox_Unchecked" Height="15" VerticalAlignment="Top" HorizontalAlignment="Left" Width="137" >
+            <CheckBox.DataContext>
+                <local:UserControl1/>
+            </CheckBox.DataContext>
+        </CheckBox>
+    </Grid>
+</Window>

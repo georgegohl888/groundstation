@@ -1,0 +1,155 @@
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe.config
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csprojAssemblyReference.cache
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.g.cs
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\App.g.cs
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.cache
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.lref
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.baml
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.g.resources
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.cache
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CoreCompileInputs.cache
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\bin\Debug\XPlaneConnector.dll
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CopyComplete
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.g.cs
+F:\documents\BEANS\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.baml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe.config
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\XPlaneConnector.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.g.cs
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.cache
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.lref
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.baml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.g.resources
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CopyComplete
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe.config
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\XPlaneConnector.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csprojAssemblyReference.cache
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.g.cs
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.g.cs
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\App.g.cs
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.cache
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.lref
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.baml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.baml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.g.resources
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.cache
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CoreCompileInputs.cache
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CopyComplete
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.Core.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsForms.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.EF6.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.Linq.dll
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.xml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.xml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.xml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.xml
+F:\documents\BEANS 2\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\Desktop\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll.config
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe.config
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.Core.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsForms.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.EF6.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.Linq.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\XPlaneConnector.dll
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.xml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.xml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.xml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.xml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll.config
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csprojAssemblyReference.cache
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.g.cs
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.g.cs
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\App.g.cs
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.cache
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.lref
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.baml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.baml
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.g.resources
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.cache
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CoreCompileInputs.cache
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CopyComplete
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+F:\documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe.config
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.Core.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\XPlaneConnector.dll
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.xml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.xml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csprojAssemblyReference.cache
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.g.cs
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.g.cs
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\App.g.cs
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.cache
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation_MarkupCompile.lref
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\MainWindow.baml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\AttitudeIndicator.baml
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.g.resources
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.cache
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.CopyComplete
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+C:\Users\georg\Documents\BEANS-DEV\GroundStation\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
